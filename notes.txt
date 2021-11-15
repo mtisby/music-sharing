@@ -1,0 +1,2 @@
+Left off
+- https://stackoverflow.com/questions/36446599/zsh-command-not-found-django-admin-when-starting-a-django-project
